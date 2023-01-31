@@ -1,2 +1,2 @@
 username : polycarpdev
-email : polycarprider@gmail.com
+email : polycarpdev@gmail.com
